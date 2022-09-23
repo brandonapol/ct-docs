@@ -7,7 +7,7 @@
   
   ## What is the purpose of the Resource Library?
   
-  [The Coding Temple Resource Library](https://www.codingtemple.com) is a free,living, easily accessible reference for coding terms and concepts, available to developers at ANY stage of their career,  all over the world. If you forget what JavaScript hoisting is,(like we all do right...) we want you to be able to look up "JS hoisting" on any search engine, click a Coding Temple Resource Library Doc entry, and have an answer in seconds.
+  [The Coding Temple Resource Library](https://www.codingtemple.com) is a free, living, easily accessible reference for coding terms and concepts, available to developers at ANY stage of their career, all over the world. If you forget what JavaScript hoisting is,(like we all do...) we want you to be able to look up "JS hoisting" on any search engine, click a Coding Temple Resource Library Doc entry, and have an answer in seconds.
   
   ## How to contribute to the Resource Library?
   
@@ -17,7 +17,7 @@
   
   - Create a github repository
   - Request Access to the Google Sheet
-  - Add your Topic and github link to the Google Sheet
+  - Add your Topic and GitHub link to the Google Sheet
   
   
   We are activily developing a main site for this project. Please star this repo to keep up-to-date on the build!
